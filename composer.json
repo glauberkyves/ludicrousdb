@@ -28,13 +28,5 @@
     "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
     "phpcompatibility/phpcompatibility-wp": "^2.1",
     "sirbrillig/phpcs-variable-analysis": "^2.8"
-  },
-  "scripts": {
-    "format": [
-      "vendor/bin/phpcbf . -v"
-    ],
-    "lint": [
-      "vendor/bin/phpcs . -v"
-    ]
   }
 }
