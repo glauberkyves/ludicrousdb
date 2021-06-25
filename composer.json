@@ -35,8 +35,5 @@
     "lint": [
       "vendor/bin/phpcs . -v"
     ]
-  },
-  "installer-paths": {
-    "public/wp-content/plugins/{$name}/": ["type:wordpress-muplugin"]
   }
 }
